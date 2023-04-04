@@ -1,1 +1,2 @@
 git練習rebaseテキスト
+git練習rebaseテキスト2

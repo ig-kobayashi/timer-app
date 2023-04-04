@@ -4,3 +4,4 @@ timer-app\.idea\deploymentTargetDropDown.xml内
 valueをダウンロードしたエミュレータのパスに変更
 
 Git 練習
+Git 練習2
